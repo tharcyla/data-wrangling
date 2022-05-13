@@ -15,3 +15,5 @@ Each Jupyter Notebook in this repository contain my notes, quizzes answers, and 
 ### Files
 - [Introduction to Data Wrangling](01_Intro-to-Data-Wrangling.ipynb)
 - [Gathering Data](02_Gathering-Data.ipynb)
+- [Assessing Data](03_Assessing-Data.ipynb)
+- [Cleaning Data](04_Cleaning-Data.ipynb)
