@@ -2,7 +2,7 @@
 May 03, 2022
 
 ### End Date
-Still ongoing
+May 15, 2022
 
 ### Project Title
 Data Wrangling Course Notes
